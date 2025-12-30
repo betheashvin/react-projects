@@ -53,7 +53,7 @@ If you want to check out the code and run it on your machine:
 
 ## 🌐 Deployment
 
-* You can view the live version here: [**[Vercel Link]**]
+* You can view the live version here: [**https://react-projects-betheashvins-projects.vercel.app/**]
 
 ## 📚 Acknowledgments
 
