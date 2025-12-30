@@ -1,16 +1,56 @@
-# React + Vite
+# React Practice Projects ⚛️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a collection of interactive React mini-projects built to master core concepts like `useState`, `useEffect`, API handling, and recursive UI components. 
 
-Currently, two official plugins are available:
+## 📂 Projects Included
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I have implemented the 6 React Frontend projects, each focusing on specific UI/UX patterns:
 
-## React Compiler
+**| # | Project Name | Description | Key Concepts |** 
+|---|---|---|---|---|
+| 1 | **Accordion** | A collapsible content viewer supporting single and multi-selection modes. | State Management, Conditional Rendering | 
+| 2 | **Random Color Generator** | Generates random HEX and RGB colors with a background preview. | `Math.random`, String Manipulation, Inline Styles | 
+| 3 | **Star Rating** | A 5-star rating component with hover and click interactions. | `onMouseEnter`, `onMouseLeave`, Array Mapping |
+| 4 | **Image Slider** | A functional image carousel with next/prev controls and dot indicators. | API Fetching, Index Tracking, CSS Transitions | 
+| 5 | **Load More Data** | Fetches products from an API with a "Load More" button to append data. | Pagination Logic, API Integration, `useEffect` | 
+| 6 | **Tree View** | A recursive navigation menu (file explorer style) for nested data. | Recursion, Components calling themselves | 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+* **Framework:** React.js
+* **Build Tool:** Vite
+* **Styling:** CSS
+* **Icons:** React Icons (for Star Rating, etc.)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 How to Run Locally
+
+If you want to check out the code and run it on your machine:
+
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/betheashvin/react-projects.git](https://github.com/betheashvin/react-projects.git)
+    ```
+
+2.  **Navigate to the project folder**
+    ```bash
+    cd react-projects
+    ```
+
+3.  **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+4.  **Start the development server**
+    ```bash
+    npm run dev
+    ```
+
+## 🌐 Deployment
+
+* You can view the live version here: [**[Vercel Link]**]
+
+## 📚 Acknowledgments
+
+* Tutorial by **freeCodeCamp.org** (Instructor: Sangam Mukherjee).
+* Built for educational purposes to improve React proficiency.
