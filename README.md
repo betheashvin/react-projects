@@ -8,11 +8,17 @@ I have implemented the 6 React Frontend projects, each focusing on specific UI/U
 
 **| # | Project Name | Description | Key Concepts |** 
 |---|---|---|---|---|
+
 | 1 | **Accordion** | A collapsible content viewer supporting single and multi-selection modes. | State Management, Conditional Rendering | 
+
 | 2 | **Random Color Generator** | Generates random HEX and RGB colors with a background preview. | `Math.random`, String Manipulation, Inline Styles | 
+
 | 3 | **Star Rating** | A 5-star rating component with hover and click interactions. | `onMouseEnter`, `onMouseLeave`, Array Mapping |
+
 | 4 | **Image Slider** | A functional image carousel with next/prev controls and dot indicators. | API Fetching, Index Tracking, CSS Transitions | 
+
 | 5 | **Load More Data** | Fetches products from an API with a "Load More" button to append data. | Pagination Logic, API Integration, `useEffect` | 
+
 | 6 | **Tree View** | A recursive navigation menu (file explorer style) for nested data. | Recursion, Components calling themselves | 
 
 ## 🛠️ Tech Stack
