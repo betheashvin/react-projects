@@ -7,7 +7,6 @@ This repository contains a collection of interactive React mini-projects built t
 I have implemented the 6 React Frontend projects, each focusing on specific UI/UX patterns:
 
 **| # | Project Name | Description | Key Concepts |** 
-|---|---|---|---|---|
 
 | 1 | **Accordion** | A collapsible content viewer supporting single and multi-selection modes. | State Management, Conditional Rendering | 
 
